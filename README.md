@@ -23,19 +23,19 @@
 
 ### 1. 只获取下位机固件代码
 ```bash
-git clone -b firmware [https://github.com/kuailedetaiyang/SmartHome.git](https://github.com/kuailedetaiyang/SmartHome.git)
+git clone -b firmware git@github.com:binnn-dev/SmartHome.git
 ```
 
 ### 2. 只获取 App 源码
 
 ```bash
-git clone -b app [https://github.com/kuailedetaiyang/SmartHome.git](https://github.com/kuailedetaiyang/SmartHome.git)
+git clone -b app git@github.com:binnn-dev/SmartHome.git
 ```
 
 ### 3. 获取硬件原理图资料
 
 ```bash
-git clone -b hardware [https://github.com/kuailedetaiyang/SmartHome.git](https://github.com/kuailedetaiyang/SmartHome.git)
+git clone -b hardware git@github.com:binnn-dev/SmartHome.git
 ```
 
 ## 📡 核心通信协议简述
